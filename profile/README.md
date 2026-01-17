@@ -1,1 +1,2 @@
-Secure, private and customizable OS for Pixels based on GrapheneOS.
+A variant of CaesiumOS based on GrapheneOS.
+Currently mainly for experimentation and testing features.
